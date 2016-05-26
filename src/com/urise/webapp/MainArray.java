@@ -23,7 +23,6 @@ public class MainArray {
         arrayStorage.save(r1);
         arrayStorage.save(r2);
         arrayStorage.save(r3);
-
         System.out.println("Get r1: " + arrayStorage.get(r1.getUuid()));
         System.out.println("Size: " + arrayStorage.size());
 
